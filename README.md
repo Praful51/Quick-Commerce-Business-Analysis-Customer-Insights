@@ -71,7 +71,7 @@ Rating_Missing / Partner_Rating_Missing – Flags for missing values
 ![Dashboard](images/dashboard1.png)
 
 **Dashboard-2**
-[Dashboard2](images/dashboard2.png)
+![Dashboard2](images/dashboard2.png)
 
 
 
