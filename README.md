@@ -1,15 +1,16 @@
 
 # Quick-Commerce-Business-Performance-Customer-Insights-Analysis
 
-Project Overview
+**Project Overview**
 
 This project analyzes quick commerce order data to evaluate company performance, customer behavior, delivery efficiency, and the impact of discounts on sales with the objective of deriving actionable business insights and supporting data-driven decision-making.. 
 
 
-Dataset Description  
+**Dataset Description**  
 The dataset contains transactional data from a quick commerce platform, capturing customer orders across multiple companies, cities, and product categories. It includes information related to order value, delivery performance, customer demographics, and ratings, enabling analysis of business performance, customer behavior, and operational efficiency.
 
-         Key Features in the Dataset
+   **Key Features in the Dataset**
+
 Order_ID – Unique identifier for each order
 Company – Platform fulfilling the order (e.g., Blinkit, Swiggy Instamart, etc.)
 City – Location where the order was placed
@@ -27,7 +28,8 @@ Age_Group – Derived feature grouping customers by age
 Is_Late – Derived flag indicating delayed deliveries
 Rating_Missing / Partner_Rating_Missing – Flags for missing values
 
- Tools Used
+ **Tools Used**
+
 - Python (Pandas, NumPy)
  Used for data cleaning, handling missing values, feature engineering, and exploratory data analysis.
 - SQL (MySQL)
@@ -36,44 +38,44 @@ Rating_Missing / Partner_Rating_Missing – Flags for missing values
  Used to build an interactive dashboard with KPIs, slicers, and visualizations to present key insights.
 	
 
-** Key Insights from the Analysis**
+**Key Insights from the Analysis**
 
-    Company-wise Performance
+   **Company-wise Performance**
 	
 ![Company](images/company_performance.png)
 -   Leading platforms such as Swiggy Instamart, Blinkit, and Zepto consistently outperform others in terms of revenue, order volume, and average order value across multiple cities.
 
-    Lower Rated Companies
+    **Lower Rated Companies**
     
 ![Low Rated Company](images/Low_Rated_Companies.png)
 - Companies like Dunzo and Jio Mart show consistently lower customer ratings, indicating potential issues in service quality and customer experience.
   
-  Late Delivery Analysis
+  **Late Delivery Analysis**
   
 ![Late Orders](images/late_orders.png)
 - Jio Mart exhibits a higher number of late deliveries, reflecting operational inefficiencies in delivery performance.
 - Haridwar stands out as a high-risk location for late deliveries across multiple companies, suggesting localized operational challenges.
 
-   Discount Impact
+   **Discount Impact**
   
 ![Discount](images/discount_Analysis.png)
 - A significant proportion (~60%) of orders are driven by discounts, indicating strong dependency on promotional strategies for sales generation.
 
-   Delayed Delivery impact on customer satisfaction
+  **Delayed Delivery impact on customer satisfaction**
 
 ![Ratings](images/customer_rating_latedelivery.png)  
 - Late deliveries are associated with lower customer ratings, highlighting delivery timeliness as a key driver of customer satisfaction.
 
-**  Dashboard-1**
+**Dashboard-1**
 
 ![Dashboard](images/dashboard1.png)
 
-**  Dashboard-2**
+**Dashboard-2**
 [Dashboard2](images/dashboard2.png)
 
 
 
-Business Recommendations
+**Business Recommendations**
 
 Strengthen Market Leaders:
  Top-performing companies should continue expanding operations and optimizing logistics to maintain competitive advantage.
@@ -89,5 +91,6 @@ Address City-Level Challenges:
 
 Refine Discount Strategy:
  Companies should optimize discount usage to balance customer acquisition with profitability and reduce over-reliance on promotions.
+
 Enhance Delivery Timeliness:
  Improving delivery speed and reliability is critical to boosting customer satisfaction and retention
