@@ -57,28 +57,28 @@ Rating_Missing / Partner_Rating_Missing – Flags for missing values
 
 **Key Insights from the Analysis**
 
-**1.Company-wise Performance**
+**1. Company-wise Performance**
 	
 ![Company](images/company_performance.png)
 -   Leading platforms such as Swiggy Instamart, Blinkit, and Zepto consistently outperform others in terms of revenue, order volume, and average order value across multiple cities.
 
-**2.Lower Rated Companies**
+**2. Lower Rated Companies**
     
 ![Low Rated Company](images/Low_Rated_Companies.png)
 - Companies like Dunzo and Jio Mart show consistently lower customer ratings, indicating potential issues in service quality and customer experience.
   
-**3.Late Delivery Analysis**
+**3. Late Delivery Analysis**
   
 ![Late Orders](images/late_orders.png)
 - Jio Mart exhibits a higher number of late deliveries, reflecting operational inefficiencies in delivery performance.
 - Haridwar stands out as a high-risk location for late deliveries across multiple companies, suggesting localized operational challenges.
 
-**4.Discount Impact**
+**4. Discount Impact**
   
 ![Discount](images/discount_Analysis.png)
 - A significant proportion (~60%) of orders are driven by discounts, indicating strong dependency on promotional strategies for sales generation.
 
-**5.Delayed Delivery impact on customer satisfaction**
+**5. Delayed Delivery impact on customer satisfaction**
 
 ![Ratings](images/customer_rating_latedelivery.png)  
 - Late deliveries are associated with lower customer ratings, highlighting delivery timeliness as a key driver of customer satisfaction.
@@ -94,20 +94,20 @@ Rating_Missing / Partner_Rating_Missing – Flags for missing values
 
 **Business Recommendations**
 
-Strengthen Market Leaders:
+**Strengthen Market Leaders:**
  Top-performing companies should continue expanding operations and optimizing logistics to maintain competitive advantage.
 
-Improve Customer Experience:
+**Improve Customer Experience:**
  Low-rated platforms should focus on enhancing service quality, delivery reliability, and overall customer experience.
 
-Optimize Delivery Operations:
+**Optimize Delivery Operations:**
  Companies with high late deliveries should invest in better logistics planning, route optimization, and delivery partner efficiency.
 
-Address City-Level Challenges:
+**Address City-Level Challenges:**
  High-delay regions like Haridwar require targeted operational strategies such as increased delivery capacity and localized infrastructure improvements.
 
-Refine Discount Strategy:
+**Refine Discount Strategy:**
  Companies should optimize discount usage to balance customer acquisition with profitability and reduce over-reliance on promotions.
 
-Enhance Delivery Timeliness:
+**Enhance Delivery Timeliness:**
  Improving delivery speed and reliability is critical to boosting customer satisfaction and retention
